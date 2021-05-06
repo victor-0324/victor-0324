@@ -1,8 +1,6 @@
 
 ## Hi there 👋 i'm Vitor Lima
 - I live :brazil:, Northeastern :space_invader: 
-- I’m currently learning  
- 
 
 ### How to reach me: 
 
