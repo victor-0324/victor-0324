@@ -22,8 +22,7 @@
   
 ## status
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=victor-0324&show_icons=true&count_private=true&theme=chartreuse-dark)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324)](https://github.com/victor-0324/github-readme-stats)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&layout=compact&count_private=true)
 
 
 
