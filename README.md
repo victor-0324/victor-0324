@@ -4,6 +4,14 @@
 - Estudo  programação. 
 - Melhorando a cada dia ...
 
+
+## Status
+
+ <a href="https://github.com/victor-0324">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=victor-0324&show_icons=true&count_private=true&theme=chartreuse-dark&border_color"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&layout=compact&langs_count=16&theme=chartreuse-dark&border_color"/>
+
+
 ## How to reach me: 
 
 <a href="https://www.instagram.com/vitorlima4677/" target="_blank"> 
@@ -21,15 +29,6 @@
 <a href="https://twitter.com/VITOR74241583" target="_blank">
 <img aling="center" alt="victor-linkedin" height="30" width="30" src="https://www.brafton.com/wp-content/uploads/2011/06/answering-consumers-tweets-can-lead-to-sales_3333_800520600_0_0_14005378_300.jpg"
  </a>
-  
-## Status
-
- <a href="https://github.com/victor-0324">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=victor-0324&show_icons=true&count_private=true&theme=chartreuse-dark&border_color"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&layout=compact&langs_count=16&theme=chartreuse-dark&border_color"/>
-
-
-
 
 
 <!-- 
