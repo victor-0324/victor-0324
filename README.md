@@ -1,5 +1,5 @@
 
-# Hi there 👋 i'm Vitor Lima
+## Hi there 👋 i'm Vitor Lima
 - I live :brazil:, Northeastern  
 - Estudo  programação. 
 - Melhorando a cada dia ...
@@ -7,7 +7,9 @@
 
 ## Status
 
-
+ <a href="https://github.com/victor-0324">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=victor-0324&show_icons=true&count_private=true&theme=chartreuse-dark&border_color"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&layout=compact&langs_count=16&theme=chartreuse-dark&border_color"/>
 
 ## How to reach me: 
 
