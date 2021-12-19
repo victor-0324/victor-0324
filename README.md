@@ -1,6 +1,6 @@
 
 ## Hi there 👋 i'm Vitor Lima
-- I live :brazil:, Northeastern  
+- Eu vivo no :brazil:, Northeastern  
 - Estudo  programação. 
 - Melhorando a cada dia ...
 
