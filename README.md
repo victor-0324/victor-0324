@@ -1,8 +1,7 @@
-
 ## Hi there 👋 i'm Vitor Lima
-- Eu vivo no :brazil:, Northeastern  
-- Estudo  programação. 
-- Melhorando a cada dia ...
+- Eu vivo :brazil:, Região Nordeste 
+- Estudo  programação ... 
+- Melhorando a cada dia ... 
 
 
 ## Status
