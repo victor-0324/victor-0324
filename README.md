@@ -1,7 +1,5 @@
 ## Hi there 👋 i'm Vitor Lima
-- Sou :brazil:, Região Nordeste 
-- Estudo  programação ... 
-- Melhorando a cada dia ... 
+- Sou :brazil:, Região Nordeste  
 
 
 ## Status
