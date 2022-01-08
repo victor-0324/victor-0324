@@ -1,7 +1,7 @@
 ## Hi there 👋 i'm Vitor Lima
 - Sou :brazil:, Região Nordeste  
 - No momento trabalho em um provedor de internet...
-- nas horas vagas estudo programação fasso automação de processos, webscripting de paginas web 
+- Nas horas vagas estudo programação fasso automação de processos, webscripting de paginas web 
 - Estou estudando novas tecnólogias ...
 
 ## Status
