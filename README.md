@@ -1,4 +1,4 @@
-## Hi there 👋 i'm Vitor Lima
+## Hi there 👋 i'm Victor Lima
 - Sou :brazil:, Região Nordeste  
 - No momento trabalho em um provedor de internet...
 - Nas horas vagas estudo programação fasso automação de processos, webscripting de paginas web 
