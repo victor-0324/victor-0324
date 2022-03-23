@@ -10,7 +10,7 @@
  
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=victor-0324&show_icons=true&theme=chartreuse-dark&border_color"/>
  
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&layout=compact&theme=chartreuse-dark"/>
+<img height="150" src="https://github.com/victor-0324/stock_control/blob/main/%C3%ADndice.jpeg"/>
 
 ## How to reach me: 
   
