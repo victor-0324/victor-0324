@@ -1,5 +1,5 @@
-## Hi there 👋 i'm Victor Lima
-- pais :brazil:, Região Nordeste  
+## Oi 👋, me chamo Victor Lima
+- Pais :brazil:, Região Nordeste  
 - trabalhando em um provedor de internet...
 - Nas horas vagas estudo programação fasso automação de processos, webscripting de paginas web 
 - Estou estudando novas tecnologias ...
