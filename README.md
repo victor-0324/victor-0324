@@ -3,9 +3,9 @@
 
  <a href="https://github.com/victor-0324">
  
-
+ <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&show_icons=true&theme=chartreuse-dark&border_color"/>
+ 
 <img  align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=victor-0324&show_icons=true&theme=chartreuse-dark&border_color"/>
-  <img align="center" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&show_icons=true&theme=chartreuse-dark&border_color"/>
 
 
 ## How to reach me: 
