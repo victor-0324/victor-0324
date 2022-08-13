@@ -3,14 +3,14 @@
 
  <a href="https://github.com/victor-0324">
  
- <div align="center">
+<div align="center">
   <a href="https://github.com/victor-0324">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=victor-0324&show_icons=true&theme=chartreuse-dark&border_color"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&show_icons=truetheme=chartreuse-dark&border_color"/>
-   </div>
+</div>
+   
 ## How to reach me: 
-  
-
+ 
   
 <a href="https://www.facebook.com/profile.php?id=100041929534379" target="_blank">
 <img aling="center" alt="victor-facebook" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiA5ayLSbJW5sMGOTthyF9Iu4eStKFuwA_1u9K3I-3e09s7Xpw5V9a001T6b6VJzrmkCI&usqp=CAU"
