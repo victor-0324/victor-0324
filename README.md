@@ -3,11 +3,10 @@
 
  <a href="https://github.com/victor-0324">
  
-<div align="center">
-  <a href="https://github.com/victor-0324">
+
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=victor-0324&show_icons=true&theme=chartreuse-dark&border_color"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&show_icons=true&theme=chartreuse-dark&border_color"/>
-</div>
+
    
 ## How to reach me: 
  
