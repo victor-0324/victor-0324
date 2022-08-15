@@ -5,9 +5,9 @@
 
 <p>
 
-- Estuddo desenvilvimento de sistemas nas horas vagas  
+- Estudando desenvolvimento de software nas horas vagas 
 - Trabalhando em um provedor de internet<br/>
-- Eu sou desenvolvedor python.
+- Eu sou desenvolvedor python ...
 
 
 </p>
