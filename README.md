@@ -5,7 +5,7 @@
 
 <p>
 
-- Estudando desenvolvimento de software nas horas vagas 
+- Estudante de desenvolvimento de software nas horas vagas 
 - Trabalhando em um provedor de internet, (GNET+) <br/>
 - Eu sou desenvolvedor python ...
 
