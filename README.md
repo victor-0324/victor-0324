@@ -70,6 +70,6 @@
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/victor-0324/victor-0324/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/victor-0324/output/github-contribution-grid-snake.svg)
 
 
