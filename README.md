@@ -60,6 +60,16 @@
 <img aling="center" alt="victor-linkedin" height="30" width="30" src="https://www.brafton.com/wp-content/uploads/2011/06/answering-consumers-tweets-can-lead-to-sales_3333_800520600_0_0_14005378_300.jpg"
  </a>
  
+## Visitas no pefil - Atividade
 
+<!-- visitors count  -->
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/victor-0324/count.svg" />  
+</p>
+
+<!-- github workflow  -->
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/victor-0324/victor-0324/output/github-contribution-grid-snake.svg)
 
 
