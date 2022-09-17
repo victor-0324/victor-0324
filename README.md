@@ -68,8 +68,6 @@
   <img src="https://profile-counter.glitch.me/victor-0324/count.svg" />  
 </p>
 
-<!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/victor-0324/output/github-contribution-grid-snake.svg)
 
 
