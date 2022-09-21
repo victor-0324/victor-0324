@@ -6,7 +6,7 @@
 <p>
 
 - Trabalhando em um provedor de internet, (GNET+) <br/>
- - Amo!Tecnologia 
+ - Amo! Tecnologias 
 
 
 
