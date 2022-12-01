@@ -13,7 +13,7 @@
 <hr>
 
 <br>
-## MY SKILLS
+## MY SKILLS:
  
 <div>
 
