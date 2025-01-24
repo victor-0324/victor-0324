@@ -6,7 +6,7 @@
 <p>
 
 - Trabalhando como desenvolverdor de software <br/>
-- Na G4-Mobile 
+- G4-Mobile 
 
 
 </p>
