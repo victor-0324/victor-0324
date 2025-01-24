@@ -5,8 +5,8 @@
 
 <p>
 
-- Trabalhando em um provedor de internet, (GNET+) <br/>
-- Amo! Tecnologias 
+- Trabalhando como desenvolverdor de software <br/>
+- Na G4-Mobile 
 
 
 </p>
