@@ -3,13 +3,6 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Victor&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 
-<p>
-
-- Trabalhando como desenvolverdor de software <br/>
-- G4-Mobile 
-
-
-</p>
 <hr>
 
 <br>
