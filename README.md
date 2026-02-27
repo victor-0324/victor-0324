@@ -1,130 +1,62 @@
-<img align="right" width="320" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+# Olá, eu sou o Victor! 👋
+### Especialista em IA & Automação de Processos
 
-<img src="https://img.shields.io/static/v1?label=AI%20%26%20Automation%20Engineer&message=Victor%20Lima&color=0d1117&style=for-the-badge&logo=GitHub"/>
-
-# 👨‍💻 Victor Lima  
-### AI & Automation Tech Lead | Cloud-Native Architect | Scalable Systems Engineer
-
----
-
-## 🚀 Strategic Profile – 2026 Vision
-
-Especialista em **Inteligência Artificial aplicada a negócios e automação de processos**, com foco em arquitetura de sistemas escaláveis, liderança técnica e construção de produtos SaaS resilientes.
-
-Atuo na interseção entre:
-
-- 🤖 IA aplicada a produtos digitais  
-- ⚙️ Automação inteligente de processos empresariais  
-- ☁️ Arquiteturas Cloud-Native  
-- 🔐 Segurança, performance e escalabilidade  
-- 📊 Sistemas orientados a dados  
-
-Meu objetivo é projetar **ecossistemas digitais autônomos**, capazes de reduzir custos operacionais, aumentar eficiência e gerar vantagem competitiva real.
-
----
-
-## 🧠 Core Expertise
-
-### 🤖 AI Engineering & Intelligent Automation
-- Integração de IA em aplicações web e mobile  
-- Desenvolvimento de APIs inteligentes  
-- Workflows automatizados  
-- Arquitetura orientada a eventos  
-- Sistemas SaaS com automação embarcada  
-
-### ⚙️ Backend & System Architecture
-<p>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-</p>
-
-- Python (Flask)  
-- Node.js  
-- Microsserviços  
-- APIs REST escaláveis  
-- Modelagem e otimização de banco de dados  
-
-### 🌐 Frontend & Experience Layer
-<p>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-</p>
-
-- React  
-- TypeScript  
-- JavaScript  
-- Flutter (multiplataforma)  
-
-### ☁️ Cloud & Infrastructure
-<p>
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-</p>
-
-- Google Cloud  
-- CI/CD  
-- Deploy automatizado  
-- Containers  
-- Observabilidade e monitoramento  
-
----
-
-## 🏗️ Tech Lead Mindset – 2026
-
-✔ Arquitetura pensando em escala desde o primeiro deploy  
-✔ Automação como pilar estratégico  
-✔ Código orientado a produto  
-✔ Redução de complexidade operacional com IA  
-✔ Cultura de melhoria contínua  
-
----
-
-## 📈 Strategic Trends I Apply
-
-- AI embedded em produtos SaaS  
-- Sistemas autônomos com workflows inteligentes  
-- Arquitetura orientada a eventos  
-- DevSecOps como padrão  
-- Infraestrutura resiliente e escalável  
-
----
-
-## 🎯 Professional Mission
-
-Construir e liderar o desenvolvimento de:
-
-- Plataformas SaaS escaláveis  
-- Sistemas com IA aplicada à automação empresarial  
-- Ecossistemas cloud resilientes  
-- Produtos digitais de alto impacto estratégico  
-
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/vitor-lima-a951bb1b7/" target="_blank">
-<img height="35" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100041929534379" target="_blank">
-<img height="35" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
-</a>
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=Foco&message=AI+Engineering&color=0078D4&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=Expertise&message=Automation&color=2ea44f&style=for-the-badge">
 </p>
 
 ---
 
-## 👁️ Profile Visitors
+## 🚀 Sobre mim
+Transformo dados e processos manuais em sistemas inteligentes e autônomos. Sou desenvolvedor com foco em **integração de modelos de IA (LLMs)** e **automação de workflows**, utilizando tecnologia para escalar operações e reduzir custos operacionais.
 
-<p align="center">   
-  <img src="https://profile-counter.glitch.me/victor-0324/count.svg" />  
+* 🤖 **Foco atual:** Construção de Agentes de IA e RAG (Retrieval-Augmented Generation).
+* ⚙️ **Automação:** Especialista em conectar ferramentas via API e Python para eliminar tarefas repetitivas.
+* ☁️ **Cloud:** Experiência em arquiteturas escaláveis na Google Cloud.
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### **Inteligência Artificial & Backend**
+<p align="left">
+  <img title="Python" src="https://github.com/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img title="NodeJS" src="https://github.com/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>&nbsp;
+  <img title="Flask" src="https://github.com/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>&nbsp;
+  <img title="MySQL" src="https://github.com/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>&nbsp;
+  <img title="Google Cloud" src="https://github.com/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>&nbsp;
+</p>
+
+### **Frontend & Mobile**
+<p align="left">
+  <img title="TypeScript" src="https://github.com/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
+  <img title="React" src="https://github.com/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
+  <img title="Flutter" src="https://github.com/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
-⭐ Always building scalable, intelligent and automated systems.
+## 📈 Estatísticas & Atividade
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-0324&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Vamos conversar?
+Se você busca automatizar processos com inteligência ou quer discutir o futuro da IA:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vitor-lima-a951bb1b7/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU-EMAIL@AQUI.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/victor-0324/count.svg" />
+</p>
