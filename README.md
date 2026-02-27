@@ -85,7 +85,7 @@ Se você busca automatizar processos com IA ou construir produtos escaláveis:
   <a href="https://www.linkedin.com/in/vitor-lima-a951bb1b7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:vitor.f.l.uzll@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
