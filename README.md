@@ -1,5 +1,5 @@
 # Olá, eu sou o Victor! 👋  
-### AI & Automation Engineer | Tech Lead Mindset 2026
+### AI & Automation Engineer | Tech Lead Mindset 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-0078D4?style=for-the-badge" />
@@ -61,13 +61,13 @@ Minha missão é construir sistemas que **reduzem custo operacional, aumentam ef
 ## 📈 Estatísticas & Atividade
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victor-0324&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=victor-0324&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victor-0324&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🎯 Direcionamento 2026
+## 🎯 Direcionamento 
 
 - AI Embedded em produtos SaaS  
 - Sistemas autônomos com workflows inteligentes  
