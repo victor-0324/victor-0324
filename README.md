@@ -1,4 +1,4 @@
-# Olá, eu sou o Victor! 👋  
+
 ### AI & Automation Engineer | Tech Lead Mindset 
 
 <p align="left">
