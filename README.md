@@ -1,7 +1,8 @@
-
-### AI & Automation Engineer | Tech Lead Mindset 
+# 📍 Victor | AI & Automation Engineer & SaaS Builder
+> 🌴 **Natal, Rio Grande do Norte - Brasil** 🇧🇷
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Location-Natal%2C%20RN%20🇧🇷-008080?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Expertise-Process%20Automation-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloud-Google%20Cloud-4285F4?style=for-the-badge" />
@@ -11,50 +12,35 @@
 
 ## 🚀 Sobre mim
 
-Transformo **processos manuais e dados brutos** em sistemas inteligentes, escaláveis e autônomos.
+Desenvolvedor Full-Stack e Especialista em IA + Automação. Transformo **processos manuais e dados brutos** em ecossistemas inteligentes, escaláveis e autônomos para startups e produtos SaaS.
 
-Sou desenvolvedor com foco estratégico em:
+- 🤖 **Engenharia de IA:** Construção de Agentes Autônomos, RAG e Integração Avançada de LLMs
+- ⚙️ **Automação & Integrações:** Workflows inteligentes via APIs, Python, n8n e Webhooks
+- 🏗️ **SaaS & Full-Stack:** Desenvolvimento de produtos ponta a ponta (Web & Mobile)
+- ☁️ **Infraestrutura:** Arquiteturas Cloud-Native escaláveis com Docker e GCP
 
-- 🤖 **Engenharia de IA aplicada a produtos**
-- 🔎 Construção de **Agentes Inteligentes e RAG (Retrieval-Augmented Generation)**
-- ⚙️ Automação de workflows via APIs e Python
-- ☁️ Arquiteturas Cloud-Native escaláveis
-
-Minha missão é construir sistemas que **reduzem custo operacional, aumentam eficiência e escalam negócios com inteligência**.
+Minha missão é criar soluções tecnológicas que **eliminam gargalos operacionais, reduzem custos e escalam negócios com inteligência**.
 
 ---
 
-## 🧠 Especialização Técnica
-
-### 🤖 Inteligência Artificial & Backend
+## 🧠 Stack & Especialização Técnica
 
 <p align="left">
   <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
-</p>
-
-- Desenvolvimento de APIs inteligentes  
-- Microsserviços escaláveis  
-- Integração de LLMs  
-- Arquitetura orientada a eventos  
-- Modelagem e otimização de banco de dados  
-
----
-
-### 🌐 Frontend & Mobile
-
-<p align="left">
-  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
+  <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
 
-- Interfaces modernas e performáticas  
-- Aplicações multiplataforma  
-- Experiência orientada a produto  
+- **Backend & IA:** APIs REST/GraphQL, Microsserviços, Engenharia de Prompt, orquestração de Agentes
+- **Frontend & Mobile:** Interfaces web responsivas de alto contraste, Apps nativos/cross-platform
+- **DevOps & Cloud:** Deploy automatizado, gerenciamento de VPS, containers com Docker Swarm e GCP
 
 ---
 
@@ -67,19 +53,9 @@ Minha missão é construir sistemas que **reduzem custo operacional, aumentam ef
 
 ---
 
-## 🎯 Direcionamento 
+## 📫 Vamos conectar?
 
-- AI Embedded em produtos SaaS  
-- Sistemas autônomos com workflows inteligentes  
-- DevSecOps como padrão  
-- Arquitetura resiliente e orientada a escala  
-- Automação como vantagem competitiva  
-
----
-
-## 📫 Vamos conversar?
-
-Se você busca automatizar processos com IA ou construir produtos escaláveis:
+Aberto a novos projetos, parcerias e conexões com a comunidade dev:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vitor-lima-a951bb1b7/">
@@ -96,6 +72,6 @@ Se você busca automatizar processos com IA ou construir produtos escaláveis:
   <img src="https://profile-counter.glitch.me/victor-0324/count.svg" />
 </p>
 
----
-
-⭐ Building intelligent, scalable and automated systems.
+<p align="center">
+  <sub>☀️ Diretamente de Natal/RN para o mundo • Criando soluções inteligentes e automatizadas.</sub>
+</p>
