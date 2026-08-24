@@ -47,8 +47,8 @@ Minha missão é criar soluções tecnológicas que **eliminam gargalos operacio
 ## 📈 Estatísticas & Atividade
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=victor-0324&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victor-0324&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victor-0324&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0324&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
